@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿// Auto.cpp
+
+#include <iostream>
 
 int main()
 {
