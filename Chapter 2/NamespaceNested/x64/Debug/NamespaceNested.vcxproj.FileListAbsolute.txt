@@ -1,1 +1,0 @@
-C:\dev\C++\Chapter 2\NamespaceNested\x64\Debug\NamespaceNested.exe

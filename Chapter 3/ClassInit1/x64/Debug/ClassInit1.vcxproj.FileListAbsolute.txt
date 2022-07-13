@@ -1,1 +1,0 @@
-C:\dev\C++\Chapter 3\ClassInit1\x64\Debug\ClassInit1.exe
